@@ -1,4 +1,4 @@
-1. **Title:** Autonomous Content Moderation for Safer and More Inclusive Online Communities
+". **Title:** Autonomous Content Moderation for Safer and More Inclusive Online Communities
 
    1. **Description:**
 
@@ -7,4 +7,5 @@
       - The system should possess scalability and adaptability, making it customizable to cater to the unique needs of diverse online communities. The goal is to foster safer, more inclusive, and welcoming digital spaces for users worldwide.
 
    2. **Clues:**
-      - You can create an AI system that automatically filters out hate speech and a chatbot which makes the community feel more inclusive.
+      - You can create an AI system that automatically filters out hate speech and a chatbot which makes the community feel more inclusive."
+      
